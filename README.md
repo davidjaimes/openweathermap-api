@@ -11,5 +11,8 @@ The objective is to build a series of scatter plots to showcase the following re
 ![temp](images/lat-vs-temp.png)
 
 * Humidity (%) vs. Latitude
+
+![humidity](images/lat-vs-hum.png)
+
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
