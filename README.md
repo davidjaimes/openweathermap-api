@@ -19,3 +19,6 @@ The objective is to build a series of scatter plots to showcase the following re
 ![cloudiness](images/lat-vs-cloud.png)
 
 * Wind Speed (mph) vs. Latitude
+
+
+![wind-speed](images/lat-vs-wind.png)
