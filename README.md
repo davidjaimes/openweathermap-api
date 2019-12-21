@@ -6,7 +6,16 @@ Create a Python script to visualize the weather of 500+ cities across the world 
 
 Sample of the first few rows of data collected:
 
-\\begin{tabular}{llrlrrrrrr}\n\\toprule\n{} &            City &  Cloudiness & Country &        Date &  Humidity &    Lat &     Lng &  Max Temp &  Wind Speed \\\\\n\\midrule\n0 &       Ostrovnoy &          44 &      RU &  1576900077 &        98 &  68.05 &   39.51 &      8.26 &       13.35 \\\\\n1 &      Nikolskoye &          90 &      RU &  1576900077 &        93 &  59.70 &   30.79 &     35.60 &        6.71 \\\\\n2 &  Port Elizabeth &           1 &      US &  1576900077 &        68 &  39.31 &  -74.98 &     28.99 &        5.82 \\\\\n3 &          Jasper &           1 &      US &  1576900077 &        93 &  33.83 &  -87.28 &     50.00 &        4.99 \\\\\n4 &       Byron Bay &           0 &      AU &  1576900057 &        69 & -28.65 &  153.62 &     93.20 &       21.92 \\\\\n\\bottomrule\n\\end{tabular}\n
+City|Cloudiness|Country|Date|Humidity|Lat|Lng|Max Temp|Wind Speed
+Ostrovnoy|44|RU|1576900077|98|68.05|39.51|8.26|13.35
+Nikolskoye|90|RU|1576900077|93|59.7|30.79|35.6|6.71
+Port Elizabeth|1|US|1576900077|68|39.31|-74.98|28.99|5.82
+Jasper|1|US|1576900077|93|33.83|-87.28|50.0|4.99
+Byron Bay|0|AU|1576900057|69|-28.65|153.62|93.2|21.92
+Kapaa|90|US|1576900078|94|22.08|-159.32|78.8|26.4
+Yellowknife|75|CA|1576899914|75|62.45|-114.38|-14.01|4.7
+Lompoc|1|US|1576899918|66|34.64|-120.46|61.0|5.79
+Sukumo|100|JP|1576900079|54|32.94|132.72|53.44|9.95
 
 ### Plotting
 
