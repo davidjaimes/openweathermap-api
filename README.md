@@ -7,6 +7,7 @@ Create a Python script to visualize the weather of 500+ cities across the world 
 Sample of the first few rows of data collected:
 
 City|Cloudiness|Country|Date|Humidity|Lat|Lng|Max Temp|Wind Speed
+--- | --- | --- | --- | --- | --- | --- | --- | --- | 
 Ostrovnoy|44|RU|1576900077|98|68.05|39.51|8.26|13.35
 Nikolskoye|90|RU|1576900077|93|59.7|30.79|35.6|6.71
 Port Elizabeth|1|US|1576900077|68|39.31|-74.98|28.99|5.82
